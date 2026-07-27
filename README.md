@@ -1,1 +1,1 @@
-yo
+<img src="./gifs/lilac.gif" width="500" height="280" />
