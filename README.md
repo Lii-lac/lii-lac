@@ -15,16 +15,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Lii-lac&langs_count=4&theme=material-palenight&card_width=300&role=OWNER,ORGANIZATION_MEMBER&custom_title=What%20I%20like%20to%20code%20in"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Lii-lac&langs_count=4&layout=compact&card_width=430&theme=material-palenight&role=OWNER,ORGANIZATION_MEMBER&custom_title=What%20I%20like%20to%20code%20in&v=2"
   />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Lii-lac&langs_count=4&theme=material-buefy&card_width=300&role=OWNER,ORGANIZATION_MEMBER&custom_title=What%20I%20like%20to%20code%20in" />
+  <img align="top" width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Lii-lac&langs_count=4&layout=compact&card_width=430&theme=material-buefy&role=OWNER,ORGANIZATION_MEMBER&custom_title=What%20I%20like%20to%20code%20in&v=2" />
 </picture>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&theme=material-palenight&show=prs_authored,prs_reviewed"
+    srcset="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&theme=material-palenight&show=prs_authored,prs_reviewed&v=2"
   />
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&theme=material-buefy&show=prs_authored,prs_reviewed" />
+  <img align="top" width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&theme=material-buefy&show=prs_authored,prs_reviewed&v=2" />
 </picture>
 
 </div>
