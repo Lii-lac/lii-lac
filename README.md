@@ -33,4 +33,34 @@
   <img align="top" width="46%" src="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&theme=material-buefy&show=prs_authored,prs_reviewed" />
 </picture>
 
+<img src="./assets/divider.svg" width="1280" height="1" />
+
+<h3>🔭 Right Now</h3>
+
+<img src="https://img.shields.io/badge/Learning-Python-bd9fdb?style=flat-square&logo=Python&logoColor=white" />
+&nbsp;
+<a href="https://github.com/nuesports/nu-esports-bot"><img src="https://img.shields.io/badge/Building-NUEsports%20Bot-a98fd2?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Playing-Neverness%20To%20Everness-b6a4dd?style=flat-square&logo=steam&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Watching-Apothecary%20Diaries-c19bd8?style=flat-square&logo=myanimelist&logoColor=white" />
+
+<br>
+<br>
+
+<img src="./assets/divider.svg" width="1280" height="1" />
+
+<br>
+<br>
+
+<h3>🪻 Say Hi</h3>
+
+<a href="mailto:Lilac@u.northwestern.edu"><img src="https://img.shields.io/badge/Email-Me-a89edb?style=flat-square&logo=gmail&logoColor=white&labelColor=555" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Discord-Liilac__-ad9ddb?style=flat-square&logo=discord&logoColor=white&labelColor=555" />
+&nbsp;
+<a href="https://www.linkedin.com/in/alex-kosowski-b52773402/"><img src="https://img.shields.io/badge/LinkedIn-Connect-a8a3e0?style=flat-square&logo=linkedin&logoColor=white&labelColor=555" /></a>
+&nbsp;
+<a href="https://open.spotify.com/user/bowr5o587vzbr8h9l23fgvlmp"><img src="https://img.shields.io/badge/Spotify-Profile-b09fdc?style=flat-square&logo=spotify&logoColor=white&labelColor=555" /></a>
+
 </div>
