@@ -41,14 +41,9 @@
 &nbsp;
 <a href="https://github.com/nuesports/nu-esports-bot"><img src="https://img.shields.io/badge/Building-NUEsports%20Bot-a98fd2?style=flat-square&logo=github&logoColor=white" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Playing-Neverness%20To%20Everness-b6a4dd?style=flat-square&logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/Playing-Splatoon%20Raiders-b6a4dd?style=flat-square&logo=steam&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Watching-Apothecary%20Diaries-c19bd8?style=flat-square&logo=myanimelist&logoColor=white" />
-
-<br>
-<br>
-
-<img src="./assets/divider.svg" width="1280" height="1" />
 
 <br>
 <br>
@@ -62,5 +57,16 @@
 <a href="https://www.linkedin.com/in/alex-kosowski-b52773402/"><img src="https://img.shields.io/badge/LinkedIn-Connect-a8a3e0?style=flat-square&logo=linkedin&logoColor=white&labelColor=555" /></a>
 &nbsp;
 <a href="https://open.spotify.com/user/bowr5o587vzbr8h9l23fgvlmp"><img src="https://img.shields.io/badge/Spotify-Profile-b09fdc?style=flat-square&logo=spotify&logoColor=white&labelColor=555" /></a>
+
+<img src="./assets/divider.svg" width="1280" height="1" />
+
+<br>
+<br>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=bowr5o587vzbr8h9l23fgvlmp&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bowr5o587vzbr8h9l23fgvlmp&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light">
+  </a>
+</p>
 
 </div>
