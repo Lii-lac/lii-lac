@@ -22,7 +22,7 @@
     media="(prefers-color-scheme: dark)"
     srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Lii-lac&langs_count=3&card_width=452&theme=material-palenight&role=OWNER,ORGANIZATION_MEMBER&custom_title=What%20I%20like%20to%20code%20in&v=2"
   />
-  <img align="top" width="46%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Lii-lac&langs_count=3&card_width=452&theme=material-buefy&role=OWNER,ORGANIZATION_MEMBER&custom_title=What%20I%20like%20to%20code%20in&v=2" />
+  <img align="top" width="46%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Lii-lac&langs_count=3&card_width=452&theme=buefy&role=OWNER,ORGANIZATION_MEMBER&custom_title=What%20I%20like%20to%20code%20in&v=2" />
 </picture>
 &nbsp;&nbsp;
 <picture>
@@ -30,7 +30,7 @@
     media="(prefers-color-scheme: dark)"
     srcset="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&theme=material-palenight&show=prs_authored,prs_reviewed"
   />
-  <img align="top" width="46%" src="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&theme=material-buefy&show=prs_authored,prs_reviewed" />
+  <img align="top" width="46%" src="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&theme=buefy&show=prs_authored,prs_reviewed" />
 </picture>
 
 <img src="./assets/divider.svg" width="1280" height="1" />
@@ -46,7 +46,6 @@
 <img src="https://img.shields.io/badge/Watching-Apothecary%20Diaries-c19bd8?style=flat-square&logo=myanimelist&logoColor=white" />
 
 <br>
-<br>
 
 <h3>🪻 Say Hi</h3>
 
@@ -58,15 +57,19 @@
 &nbsp;
 <a href="https://open.spotify.com/user/bowr5o587vzbr8h9l23fgvlmp"><img src="https://img.shields.io/badge/Spotify-Profile-b09fdc?style=flat-square&logo=spotify&logoColor=white&labelColor=555" /></a>
 
-<img src="./assets/divider.svg" width="1280" height="1" />
-
-<br>
 <br>
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=bowr5o587vzbr8h9l23fgvlmp&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bowr5o587vzbr8h9l23fgvlmp&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light">
+<p>
+  <a href="https://spotify-github-profile-nuesports-projects.vercel.app/api/view?uid=bowr5o587vzbr8h9l23fgvlmp&redirect=true">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://spotify-github-profile-nuesports-projects.vercel.app/api/view?uid=bowr5o587vzbr8h9l23fgvlmp&cover_image=true&theme=spotify-embed&show_offline=false&background_color=242038&interchange=false&profanity=false&hide_remaster=false&bar_color=8D86C9&bar_color_cover=false&mode=dark"
+      />
+      <img src="https://spotify-github-profile-nuesports-projects.vercel.app/api/view?uid=bowr5o587vzbr8h9l23fgvlmp&cover_image=true&theme=spotify-embed&show_offline=false&background_color=eceaf1&interchange=false&profanity=false&hide_remaster=false&bar_color=725AC1&bar_color_cover=false&mode=light">
+    </picture>
   </a>
 </p>
 
+<img src="./assets/divider.svg" width="1280" height="1" />
 </div>
