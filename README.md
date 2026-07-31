@@ -20,7 +20,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Lii-lac&langs_count=3&card_width=452&role=OWNER,ORGANIZATION_MEMBER&custom_title=What%20I%20like%20to%20code%20in&v=2&hide_border=true&theme=material-palenight&bg_color=242038&title_color=9c8adb"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Lii-lac&custom_title=What%20I%20like%20to%20code%20in&hide_border=true&theme=material-palenight&bg_color=242038&title_color=9c8adb&langs_count=3&card_width=452&role=OWNER,ORGANIZATION_MEMBER"
   />
   <img align="top" width="46%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Lii-lac&langs_count=3&card_width=452&theme=buefy&role=OWNER,ORGANIZATION_MEMBER&custom_title=What%20I%20like%20to%20code%20in&v=2" />
 </picture>
@@ -28,7 +28,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&show=prs_authored,prs_reviewed&hide_border=true&theme=material-palenight&bg_color=242038&title_color=9c8adb&icon_color=84b870"
+    srcset="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&bg_color=242038&title_color=9c8adb&icon_color=84b870&hide_border=true&theme=material-palenight&show=prs_merged"
   />
   <img align="top" width="46%" src="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&theme=buefy&show=prs_authored,prs_reviewed" />
 </picture>
