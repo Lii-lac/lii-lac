@@ -28,7 +28,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&bg_color=242038&title_color=9c8adb&icon_color=84b870&hide_border=true&theme=material-palenight&show=prs_merged"
+    srcset="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&bg_color=242038&title_color=9c8adb&icon_color=84b870&hide_border=true&theme=material-palenight&show=prs_authored,prs_reviewed"
   />
   <img align="top" width="46%" src="https://github-stats-extended.vercel.app/api/pin?username=Lii-lac&repo=nuesports/nu-esports-bot&theme=buefy&show=prs_authored,prs_reviewed" />
 </picture>
